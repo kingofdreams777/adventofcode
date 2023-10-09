@@ -1,4 +1,5 @@
 //
+<<<<<<< HEAD
 // Created by ross on 10/5/23.
 //
 
@@ -49,3 +50,11 @@ int main() {
         cerr << "No file found" << endl;
     }
 }
+=======
+// Created by rossm on 10/4/2023.
+//
+
+int main() {
+    return 0;
+}
+>>>>>>> 50af12b74e566e5f5a672941d0898d7254ac902e
