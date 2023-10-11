@@ -1,4 +1,4 @@
-# Install script for directory: /home/ross/development/playground/aoc/2022/day7
+# Install script for directory: /home/ross/Development/playground/adventofcode/2022/day7
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ross/development/playground/aoc/2022/day7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ross/Development/playground/adventofcode/2022/day7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
